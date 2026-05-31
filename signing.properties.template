@@ -1,0 +1,4 @@
+KEYSTORE_PATH=release.keystore
+KEYSTORE_PASSWORD=your_keystore_password
+KEY_ALIAS=privacy_shredder
+KEY_PASSWORD=your_key_password
